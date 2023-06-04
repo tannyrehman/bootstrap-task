@@ -1,5 +1,5 @@
 body{
-    background-color: #E5E5E5;
+    background-color: #fff;
 }
 
 .card-info{
@@ -43,3 +43,32 @@ hr{
 }
 
 
+
+
+
+.first-col{
+    background-color: #F5F4FB;
+    height: 100vh;
+}
+
+.first-col__content{
+    padding: 16rem 0;
+}
+
+.login-box{
+    max-width: 530px;
+    box-sizing: border-box;
+    padding: 30px;
+    border: 1px solid #EAECF0;
+}
+
+
+.second-col{
+    padding: 10rem;
+}
+
+label{
+    font-size: 16px;
+    font-weight: 600;
+    color: #344054;
+}
