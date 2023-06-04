@@ -1,0 +1,45 @@
+body{
+    background-color: #E5E5E5;
+}
+
+.card-info{
+    width: 450px;
+    margin: auto;  
+    background-color: #fff;  
+}
+.img-info{
+    background-color: #EAECF0;
+}
+.img img{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+h6{
+    margin: 0;
+}
+hr{
+    width: 400px;
+    border: 1px solid gray;
+}
+.icon{
+    color: #F0A500;
+}
+.icon-2 {
+    font-size: 18px;
+    font-weight: 700;
+}
+.login-form{
+    width: 950px;
+    background-color: #fff;
+    margin: auto;
+}
+.form-info{
+    border: 1px solid rgba(128, 128, 128, 0.103);
+}
+.login-btn{
+    text-align: center;
+}
+
+
